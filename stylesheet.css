@@ -1,0 +1,67 @@
+img{
+    height: 500px;
+    width: 650px;
+}
+.under{
+    display: inline;
+    padding-top: 0px;
+    padding-bottom: 15px;
+}
+#friends{
+    font-weight: bold;
+}
+#numbers{
+    font-weight: bold;
+}
+p{
+    font-family: helvetica;
+    width: 650px;
+}
+#header{
+    width: 650px;
+    height: 60px;
+ 
+}
+#puntos{
+    float: right;
+    height: 75%;
+    width: 8%;
+}
+#html5{
+    display: inline;
+    padding: 0%;
+    margin: 0%;
+    position: absolute;
+    left:60px;
+    top:-10;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial;
+}
+#rigoberto{
+    display: inline;
+    padding: 0%;
+    margin: 0%;
+    position: absolute;
+    left:0px;
+    top:5;
+    font-weight: normal;
+    font-family: Arial;
+}
+#iconos{
+    height:50px;
+    width: 650px;
+    padding-bottom: 10;
+}
+#bookmark{
+    float: right;
+}
+#under_block{
+    padding-bottom: 10px;
+}
+
+#dots{
+    float: right;
+    padding-top: 15px;
+    
+}
